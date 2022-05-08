@@ -3,6 +3,6 @@ res_list=[x*2 for x in list_1]
 print(res_list)
 
 list_2=[100,200,300,400,500]
-res_list=[x*0.1 for x list_2]
+res_list=[x*0.1 for x in list_2]
 print("----This List is completed----")
 
