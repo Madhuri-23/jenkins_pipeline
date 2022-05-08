@@ -1,4 +1,3 @@
-import sys
 import string
 
 SHIFT = 3
@@ -22,4 +21,3 @@ if CHOICE == "DECODE":
             ENCODED = ENCODED + LETTERS[x]
 
 print(ENCODED)
-sys.exit()
